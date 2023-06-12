@@ -1,0 +1,4 @@
+1. Information about the project is written in the README.md file. Please read it before running the project.
+2. Information about How to run the project is written in the README.md file. Please read it before running the project.
+
+Thank you.
